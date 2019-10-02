@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Hello;
+namespace Demo\Hello;
 
 
 class Lara
